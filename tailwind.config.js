@@ -5,6 +5,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      maxWidth: {
+        app: '700px'
+      },
       colors: {
         fellipe: '#333'
       }
